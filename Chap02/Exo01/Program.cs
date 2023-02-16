@@ -38,9 +38,5 @@ class Program
         Console.WriteLine("m = " + m);
         Console.WriteLine("n = " + n);
         Console.WriteLine("o = " + o);
-
-
-
-
     }
 }
